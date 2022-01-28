@@ -1,0 +1,3 @@
+# GitHub configuration files
+
+:wave:
